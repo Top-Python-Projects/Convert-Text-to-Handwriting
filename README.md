@@ -2,7 +2,7 @@
 
 In this project we'll use python library that's "pywhatkit"  for converting text to handwriting. this small project you will know how python convert text to handwriting in image format.
 ## Demo
-<img src="text_to_handwriting.png">
+<img src="text_to_handwrting.png">
 
 ## Soruce Code
 - [Download](htt://drive.google.com/file/d/11tllHkU-lsQYFt3DxczoC6eggbsVm9Re/view?usp=sharing)
