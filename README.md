@@ -5,7 +5,7 @@ In this project we'll use python library that's "pywhatkit"  for converting text
 <img src="text_to_handwrting.png">
 
 ## Soruce Code
-- [Download](htt://drive.google.com/file/d/11tllHkU-lsQYFt3DxczoC6eggbsVm9Re/view?usp=sharing)
+- [Download](https://drive.google.com/file/d/1cWIfTZ-t6TQ0CRCmrALZ-loa21YqEdJO/view?usp=sharing)
 
 
 # Contribution Guidelines
