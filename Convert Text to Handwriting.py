@@ -1,3 +1,6 @@
+# Author: Abdul Raza
+# Version: 0.1
+# Date: 22th November 2021
 import pywhatkit as pw
 txt =""" What is Lorem Ipsum?
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
