@@ -22,6 +22,24 @@ In this project we'll use python library that's "pywhatkit"  for converting text
 ## Demo
 <img src="text_to_handwrting.png">
 
+## Code 
+<pre><code># Author: Abdul Raza
+# Version: 0.1
+# Date: 22th November 2021
+
+import pywhatkit as pw
+txt =""" What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
+and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. """
+ 
+# pw.text_to_handwriting(txt,"img1.png",[0,0,138])
+pw.text_to_handwriting(txt)
+print("END")
+</code></pre>
 ## Soruce Code
 - [Download](https://drive.google.com/file/d/1cWIfTZ-t6TQ0CRCmrALZ-loa21YqEdJO/view?usp=sharing)
 
@@ -32,3 +50,5 @@ In this project we'll use python library that's "pywhatkit"  for converting text
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 #### Author: Abdul Raza
+
+
