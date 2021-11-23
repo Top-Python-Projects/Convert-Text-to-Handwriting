@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to TechnicalFacts
 
 You can use the [editor on GitHub](https://github.com/Top-Python-Projects/Convert-Text-to-Handwriting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
