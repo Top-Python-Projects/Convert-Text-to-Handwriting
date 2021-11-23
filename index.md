@@ -1,4 +1,3 @@
-## Welcome to TechnicalFacts
 
 # Convert Text-to Handwriting Using Python
 
@@ -31,3 +30,5 @@ In this project we'll use python library that's "pywhatkit"  for converting text
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+#### Author: Abdul Raza
