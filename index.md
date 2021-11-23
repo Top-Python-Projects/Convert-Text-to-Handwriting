@@ -23,7 +23,9 @@ In this project we'll use python library that's "pywhatkit"  for converting text
 <img src="text_to_handwrting.png">
 
 ## Code 
-<pre><code># Author: Abdul Raza
+
+```python
+# Author: Abdul Raza
 # Version: 0.1
 # Date: 22th November 2021
 
@@ -39,7 +41,9 @@ and more recently with desktop publishing software like Aldus PageMaker includin
 # pw.text_to_handwriting(txt,"img1.png",[0,0,138])
 pw.text_to_handwriting(txt)
 print("END")
-</code></pre>
+
+```
+
 ## Soruce Code
 - [Download](https://drive.google.com/file/d/1cWIfTZ-t6TQ0CRCmrALZ-loa21YqEdJO/view?usp=sharing)
 
