@@ -1,6 +1,6 @@
 <p align="center">
 <img alt="Text-to-handwriting title image" src="5.png" /> 
-<br/><b><a href="https://saurabhdaware.github.io/text-to-handwriting/">https://github.com/Top-Python-Projects/Convert-Text-to-Handwriting</a></b><br/><br/><img alt="NPM Version" src="3.PNG" /> <a href="#contributing"><img alt="Contributions Welcome" src="1.png"></a> <br/><a href="https://github.com/Top-Python-Projects/Convert-Text-to-Handwriting/blob/main/LICENSE"> <img alt="GitHub License MIT" src="ls.png"> </a><br/><br/> I hate writing assignments so I made this tool that converts text to an image that looks like handwriting😛
+<br/><b><a href="https://saurabhdaware.github.io/text-to-handwriting/">https://github.com/Top-Python-Projects/Convert-Text-to-Handwriting</a></b><br/><br/><img alt="NPM Version" src="3.png" /> <a href="#contributing"><img alt="Contributions Welcome" src="1.png"></a> <br/><a href="https://github.com/Top-Python-Projects/Convert-Text-to-Handwriting/blob/main/LICENSE"> <img alt="GitHub License MIT" src="ls.png"> </a><br/><br/> I hate writing assignments so I made this tool that converts text to an image that looks like handwriting😛
 
 </p>
 # Convert Text-to Handwriting Using Python
